@@ -351,3 +351,25 @@ D. They must have no duplicate data rows.
 - [ ] COUNTUNIQUE
 - [x] COUNTX
 - [ ] COUNTROWS
+
+#### Q46. You have just pinned a visualization to a new dashboard. Before you can add another visualization, what must you do?
+
+- [ ] Save it.
+- [ ] Name it.
+- [ ] Refresh it.
+- [ ] Publish it.
+
+#### Q47. You can create a live connection to ____ .
+
+- [ ] Dynamics 365
+- [ ] SharePoint
+- [x] all of these answers
+- [ ] SQL Server Analysis Services
+
+#### Q48. What is the purpose of this code?
+// ProductCount = COUNT(Products[ProductID])
+
+- [x] It is part of the documentation
+- [ ] It creates and formats a measure called ProductCount
+- [ ] It creates a measure called ProductCount
+- [ ] It calculates the value for an existing measure named ProductCount
